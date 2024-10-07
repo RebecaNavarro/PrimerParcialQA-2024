@@ -19,7 +19,7 @@ public class PrestamoTest {
             {
                     "'S23','Samsung','Andres'",
                     "'Iphone14','Iphone','Valentina'",
-                    "'','Xiaomi','Carlos'"
+                    "'A1','Xiaomi','Carlos'"
             }
     )
 
