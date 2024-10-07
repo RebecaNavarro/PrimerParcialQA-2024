@@ -21,7 +21,7 @@ public class FechaTest {
     public void verifyFecha(String expectedResult, String actualResult){
         DateUtils dateUtils = new DateUtils();
         String result = dateUtils.getDayOfWeek(actualResult);
-        Assertions.assertEquals(expectedResult, result, "ERROR la fecha es otro dia de la semana");
+        Assertions.assertEquals(expectedResult, result, "ERROR la fecha es otro dia de la semana no ese");
     }
 
 }
